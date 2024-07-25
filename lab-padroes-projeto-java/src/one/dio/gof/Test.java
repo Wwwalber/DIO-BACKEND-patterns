@@ -1,5 +1,9 @@
 package one.dio.gof;
 
+import one.dio.gof.singleton.SingletonEager;
+import one.dio.gof.singleton.SingletonLazy;
+import one.dio.gof.singleton.SingletonLazyHolder;
+
 public class Test {
     public static void main(String[] args) {
         
